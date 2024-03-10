@@ -233,7 +233,7 @@ const ALLLang: i18nAllLang = {
     'en-US': 'Select a template to start',
     'zh-CN': '选择一个模板开始',
     'ja': 'テンプレートを選択して開始',
-    'ru': 'Выберите шаблон для начала'
+    'ru': 'Сначала выберите шаблон'
   },
   [KEYS.remove]: {
     'en-US': 'Remove',
@@ -269,7 +269,7 @@ const ALLLang: i18nAllLang = {
     'en-US': 'If you\'re interested in further learning about text-to-image generation techniques, you can check out the following sections:',
     'zh-CN': '如果你对进一步了解文本到图像生成技术感兴趣，你可以查看以下部分：',
     'ja': 'テキストから画像を生成する技術についてさらに学びたい場合は、次のセクションをご覧ください：',
-    'ru': 'Если вас интересует дальнейшее изучение технологии генерации текста в изображение, вы можете ознакомиться с следующими разделами:'
+    'ru': 'Если вас интересует дальнейшее изучение технологии генерации текста в изображение, вы можете ознакомиться со следующими разделами:'
   },
   [KEYS.imageToImage]: {
     'en-US': 'Image To Image',
@@ -281,7 +281,7 @@ const ALLLang: i18nAllLang = {
     'en-US': 'If you\'d like to learn some image-to-image generation techniques, you can check out the following sections:',
     'zh-CN': '如果你想了解一些图像到图像生成技术，你可以查看以下部分：',
     'ja': 'いくつかの画像から画像を生成する技術を学びたい場合は、次のセクションをご覧ください：',
-    'ru': 'Если вы хотите лучше изучить технологии генерации изображений в изображения, вы можете ознакомиться с следующими разделами:'
+    'ru': 'Если вы хотите лучше изучить технологию генерации изображений в изображения, вы можете ознакомиться со следующими разделами:'
   },
   [KEYS.bestPractices]: {
     'en-US': 'Best Practices',
@@ -293,7 +293,7 @@ const ALLLang: i18nAllLang = {
     'en-US': 'In addition to the basic tutorials, there are also some best practice cases that you can refer to and try out:',
     'zh-CN': '除了基础教程外，还有一些最佳实践案例供你参考和尝试：',
     'ja': '基本的なチュートリアルに加えて、参照して試してみることができるベストプラクティスのケースもあります：',
-    'ru': 'Помимо основных примеров, есть также и другие примеры, которые вы посмтреть и попробовать:'
+    'ru': 'Помимо основных примеров, есть также и другие примеры, которые вы можете посмтреть и попробовать:'
   },
   [KEYS.stopServer]: {
     'en-US': 'Stop Server',
@@ -308,22 +308,22 @@ const ALLLang: i18nAllLang = {
     'ru': 'Перезапустить'
   },
   [KEYS.pipInstall]: {
-    'en-US': 'Install with Pip',
+    'en-US': 'Install with PIP',
     'zh-CN': 'Pip 安装',
     'ja': 'Pip インストール',
-    'ru': 'Установка с помощью pip'
+    'ru': 'Установка с помощью PIP'
   },
   [KEYS.installPip]: {
-    'en-US': 'Install packages using Pip',
+    'en-US': 'Install packages using PIP',
     'zh-CN': '安装 Pip 包',
     'ja': 'Pip パッケージをインストール',
-    'ru': 'Установить пакеты с помощью Pip'
+    'ru': 'Установить пакеты с помощью PIP'
   },
   [KEYS.pipPlaceholder]: {
-    'en-US': 'Input package name for pip  e.g. numpy pandas tensorflow',
+    'en-US': 'Input package name for PIP  e.g. numpy pandas tensorflow',
     'zh-CN': '输入 pip 包名称，例如 numpy pandas tensorflow',
     'ja': 'pip パッケージ名を入力してください 例：numpy pandas tensorflow',
-    'ru': 'Введите имя пакета для pip, например numpy pandas tensorflow'
+    'ru': 'Введите имя пакета для PIP, например numpy pandas tensorflow'
   }
 };
 
